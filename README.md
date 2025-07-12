@@ -28,7 +28,7 @@ Type a task into the input field and click "+ Add Task".
 The task will be added to your list.
 ![alt text](<images/Screenshot 2025-07-11 172207.png>)
 ### 3. Edit task
-To update a task, click the ✏️ Edit icon beside it.
+To update a task, click the Edit button.
 A popup will let you change the task text.
 ![alt text](<images/Screenshot 2025-07-11 172311.png>)
 ![alt text](<images/Screenshot 2025-07-11 172327.png>)
